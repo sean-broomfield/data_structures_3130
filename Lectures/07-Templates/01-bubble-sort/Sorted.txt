@@ -1,0 +1,20 @@
+
+
+Integers Before Sort: 
+3 78 950 23809 832910 44 33 22 94 20 55 
+
+Integers After Sort: 
+3 20 22 33 44 55 78 94 950 23809 832910 
+
+Doubles before sort: 
+235.6 78.9 23.55 89.4 1.9 8.9 9.9 343.2 1.212 2434.23 2323.11 54.545 12233.4 
+
+Doubles after sort: 
+1.212 1.9 8.9 9.9 23.55 54.545 78.9 89.4 235.6 343.2 2323.11 2434.23 12233.4 
+
+Strings before sort: 
+hellosone hi car jar the quick brown fox jumps over the train and falls down in the dirt. 
+
+Strings after sort: 
+and brown car dirt. down falls fox hellosone hi in jar jumps over quick the the the train 
+

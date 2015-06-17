@@ -1,0 +1,4 @@
+In file included from array.cpp:3:0:
+array.h:8:32: error: declaration of 'operator<<' as non-function
+array.h:8:32: error: expected ';' at end of member declaration
+array.h:8:35: error: expected unqualified-id before '<' token

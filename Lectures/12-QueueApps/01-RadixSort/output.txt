@@ -1,0 +1,6 @@
+Reading from num.txt file.... 
+
+Unsorted Array: 912 123 453 1212 9 89 900 576 123 57 
+
+Sorted Array: 9 57 89 123 123 453 576 900 912 1212 
+

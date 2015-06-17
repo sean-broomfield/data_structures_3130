@@ -1,0 +1,11 @@
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+si contains 15: true
+si contains 23: false
+
+[cat, dog, cow, elephant]
+si contains "dog": true
+si contains "muskrat": false
+
+[Ralph, Tim, Jimmy]
+s3 contains "Tim": true
+s3 contains "Joshua": false

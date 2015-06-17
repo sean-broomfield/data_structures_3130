@@ -1,0 +1,22 @@
+Enter in name of the file.
+
+Maze Loaded
++------------+
+|S***********|
+|   *       *|
+|  **  ***  *|
+|   **      *|
+| ***       F|
++------------+
+
+Maze is possible to solve if 1: 1
+
+Printing solution of maze.
++------------+
+|Sooooooooooo|
+|   *       o|
+|  **  ***  o|
+|   **      o|
+| ***       F
+|
++------------+

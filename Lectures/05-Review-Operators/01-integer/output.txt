@@ -1,0 +1,46 @@
+i1: 0
+i2: 10
+i3: 3
+i4: 10
+i5: 0
+i6: 10
+i1 + i2: 10
+After i1 += i2 - i1: 10
+Value of i5 after input is 355
+
+After i2 * i3: 30
+After i2 *= i3: 30
+After operator *(i2, i3): 90
+
+After i2 / i3: 10
+After i2 /= i3: 10
+After operator /(i2, i3): 3
+
+After i2 - i3: 7
+After 12-=i3: 7
+After operator-(i2, i3) 4
+
+After i2 == i3: 0
+After operator==(i2, i3): 0
+After i6 == i4: 1
+
+After i2 < i3: 0
+After operator <(i2, i3): 0
+
+After i2 >i3: 1
+After operator >(i2, i3): 1
+
+i4 after operator(i4) is 9
+i4 after --i4 is 8
+14 after i4-- is 7
+
+i3 after operator++(i3) is 4
+i3 after ++i3 is 5
+i3 after i3++ is 6
+
+After operator -(i3): -6
+After -i5: -355
+
+i1 + i2: 17
+After i1.operator +=(i2) - i1: 17
+

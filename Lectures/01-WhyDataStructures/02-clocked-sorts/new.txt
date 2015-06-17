@@ -1,0 +1,27 @@
+
+Priority Queue for the Duration for array of 10: 0:0:0:0
+
+
+Bubble sort for the Duration for array of 10: 0:0:0:0
+
+
+Built-in sort for the Duration for an array of 10: 0:0:0:0
+
+
+Priority Queue for the Duration for array of 1000: 0:0:0:0
+
+
+Bubble sort for the Duration for array of 1000: 0:0:0:0
+
+
+Built-in sort for the Duration for an array of 1000: 0:0:0:0
+
+
+Priority Queue for the Duration for array of 1000000: 0:0:2:40000
+
+
+Bubble sort for the Duration for array of 1000000: 0:0:0:10000
+
+
+Built-in sort for the Duration for an array of 1000000: 0:0:0:90000
+

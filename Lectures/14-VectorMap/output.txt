@@ -1,0 +1,13 @@
+Values in Map: 
+{[ Dog: 2] , [ cow: 2] , [ cat: 23] }
+ The mumber of elements in map is: 3
+Clearing Vector Map...
+
+Size of VectorMap is now: 0
+
+Is VectorMap now clear? true
+
+Testing element adding with for loop
+Printing new VectorMap...
+
+{[ string0: 0] , [ string1: 1] , [ string2: 2] , [ string3: 3] , [ string4: 4] , [ string5: 5] , [ string6: 6] , [ string7: 7] , [ string8: 8] , [ string9: 9] }

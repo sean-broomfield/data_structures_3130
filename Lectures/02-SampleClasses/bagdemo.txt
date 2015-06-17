@@ -1,0 +1,26 @@
+Bag contents are 
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+John Don
+(0)-0-0 ()
+(0)-0-0 ()
+Gerald Weiss
+(0)-0-0 ()
+(0)-0-0 ()
+Joe Free
+(0)-0-0 ()
+(0)-0-0 ()
+If value is one then contact was found else contact doesnt exist. Value is 1

@@ -1,0 +1,24 @@
+Bag contents are 
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+ 
+(0)-0-0 ()
+(0)-0-0 ()
+John Doe
+(0)-0-0 ()
+(0)-0-0 ()
+Gerald Weiss
+(0)-0-0 ()
+(0)-0-0 ()
+If value is 1 then Gerald Weiss exists else it does not. Value is 1
+If value is 1 then Jeffrey Dover exists else, it does not. Value is 0

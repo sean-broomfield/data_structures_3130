@@ -1,0 +1,10 @@
+String is: (Cars)
+Opener is at position 0
+Closer is at position 5
+There is a match for string (Cars)!  ( )
+
+String is: <c)
+Opener is at position 0
+Closer is at position 2
+There is no match for string <c)
+

@@ -1,0 +1,10 @@
+Value entered is 5
+Value entered is 6
+Value entered is 9
+Value entered is 3
+Value entered is 55
+Value entered is 22
+Value entered is 6
+Sum of values entered is 106
+The number of values entered is 7
+Average of elements entered is 15

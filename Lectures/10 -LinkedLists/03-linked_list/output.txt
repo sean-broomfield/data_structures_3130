@@ -1,0 +1,22 @@
+
+{59,35}
+
+Size of list is 2
+
+Is li empty? 0
+Is li2 empty? 1
+Li2 = Li
+Printing li2
+{59,35}
+
+Inserting node into li2 
+{59,35,129}
+
+Value of node removed is 129
+{59,35}
+
+Size of li2 is 2
+Removed.
+Removing node containing 35 from list. 1
+{59}
+
